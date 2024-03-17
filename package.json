@@ -1,0 +1,14 @@
+{
+  "name": "cypress_automation_udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.2",
+    "cypress-iframe": "^1.0.1"
+  }
+}
